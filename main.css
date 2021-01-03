@@ -1,0 +1,37 @@
+html {
+  height: 100%;
+}
+
+a {
+	color:	#008B8B;
+	text-decoration: blink;
+	font-weight:bold;
+	}
+
+h1,h2,h3,h4,h5,h6 {font-weight:500;}
+
+body {
+  font-family:"Microsoft YaHei","微软雅黑","黑体","宋体",sans-serif;
+  background-image: url(bg.png);
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:fixed;
+  background-color: #F0F8FF;
+  }
+
+.center {
+	text-align:center;
+	}
+
+.dlist li {line-height:2em;}
+
+.dlist {
+	margin:auto;
+	width:200px;
+}
+
+.list {
+	margin:auto;
+	width:310px;
+}
+
